@@ -1,0 +1,1284 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Hello\n"
+"POT-Creation-Date: 2019-01-08 11:43+0600\n"
+"PO-Revision-Date: 2019-01-08 11:42+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:7
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "Ooops! You are lost."
+msgstr ""
+
+#: 404.php:17
+msgid "Go"
+msgstr ""
+
+#: 404.php:17
+msgid "Home"
+msgstr ""
+
+#: comments.php:16 functions.php:204
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:35 functions.php:75
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:86
+msgid "Add widgets here to appear in your sidebar on single posts"
+msgstr ""
+
+#: functions.php:104
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:192
+msgid "Unknown error."
+msgstr ""
+
+#: functions.php:198 functions.php:258
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:212
+msgid "Thanks for your comment."
+msgstr ""
+
+#: functions.php:279
+msgid "Comment"
+msgstr ""
+
+#: functions.php:280
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:289
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:299
+msgid "Name"
+msgstr ""
+
+#: functions.php:300
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:416
+msgid "Email"
+msgstr ""
+
+#: header.php:13
+msgid "loading"
+msgstr ""
+
+#: header.php:137
+msgid "logo"
+msgstr ""
+
+#: header.php:139
+msgid "Hi, I'm"
+msgstr ""
+
+#: header.php:139
+msgid "James Bond"
+msgstr ""
+
+#: header.php:151
+msgid "Designer & Developer"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/blog-block.php:32
+#: index.php:33 single.php:19
+msgid "Posted by"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/blog-block.php:44
+#: index.php:63
+msgid "35"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/blog-block.php:50
+#: index.php:69
+msgid "Read More"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/blog-block.php:57
+#: index.php:76
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/blog-block.php:65
+#: index.php:82
+msgid "Previous"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/blog-block.php:66
+#: index.php:83
+msgid "Next"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:12
+msgid "Menu Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:13
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:67
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:119
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:161
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:235
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:309
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:347
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:367
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:410
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:425
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:475
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:490
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:561
+msgid "By hello"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:20
+msgid "Menu Style"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:22
+msgid "Box Menu"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:23
+msgid "Inline Menu"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:28
+msgid "Menu 1 Link"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:37
+msgid "Menu 2 Link"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:46
+msgid "Menu 3 Link"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:55
+msgid "Menu 4 Link"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:66
+msgid "Profile Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:73
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:125
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:167
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:241
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:315
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:353
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:373
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:431
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:481
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:496
+msgid "Heading"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:79
+msgid "Subheading"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:84
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:225
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:299
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:337
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:629
+msgid "Description"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:91
+msgid "Inforamtion List"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:93
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:133
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:175
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:249
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:323
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:381
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:513
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:611
+msgid "Add New"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:97
+msgid "Info Title"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:102
+msgid "Info Text"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:111
+msgid "Signature"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:118
+msgid "Skills Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:131
+msgid "Skills List"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:137
+msgid "Skill Title"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:142
+msgid "Years of Experience"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:147
+msgid "Skill %"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:160
+msgid "Experience Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:173
+msgid "Experience List"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:179
+msgid "Position"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:184
+msgid "Company"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:189
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:263
+msgid "Start Date"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:194
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:268
+msgid "Start & End Separator"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:199
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:273
+msgid "End Date - Current"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:202
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:276
+msgid "YES"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:207
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:281
+msgid "Current Text"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:216
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:290
+msgid "End Date"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:234
+msgid "Education Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:247
+msgid "Educational qualifications"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:253
+msgid "Degree"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:258
+msgid "Institute"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:308
+msgid "Services Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:321
+msgid "Service List"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:327
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:517
+msgid "Select Icon"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:332
+#: includes/redux/admin-options.php:486
+msgid "Title"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:346
+msgid "Awards Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:366
+msgid "Testimonials Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:379
+msgid "Testimonials List"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:385
+msgid "Client's Name"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:390
+msgid "Client's Avatar"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:395
+msgid "Client's Position"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:400
+msgid "Testimonial"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:409
+msgid "Email Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:424
+msgid "Portfolio Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:438
+msgid "Category"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:439
+msgid "Insert the name of the category you want to pull posts from (optional)"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:447
+msgid "\"All\" Text"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:453
+msgid "Items On Row"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:455
+msgid "1 Item"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:456
+msgid "2 Items"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:457
+msgid "3 Items"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:463
+msgid "Gap Between Portfolio Items"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:468
+msgid "Title and Category on Hover"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:474
+msgid "Blog Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:489
+msgid "Contact Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:503
+msgid "Select Contact Form"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:504
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:511
+msgid "Contact Item"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:522
+msgid "Item Title"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:527
+msgid "Item Text"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:536
+msgid "Google map API Key"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:541
+msgid "Latitude"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:543
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:549
+msgid "Here is a tool"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:543
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:549
+msgid "where you can find Latitude & Longitude of your location"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:547
+msgid "Longitude"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:553
+msgid "Marker Icon"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:560
+msgid "Portfolio Details Block"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:568
+msgid "Cover Style"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:570
+msgid "Featured Image"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:571
+msgid "Youtube Video"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:572
+msgid "Slider"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:578
+msgid "Video Id"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:579
+msgid ""
+"Example: https://www.youtube.com/watch?v=<span style=\"color:red"
+"\">5es64FPCO6k</span>. Here red number is the video id."
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:588
+msgid "Upload Slider Images"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:597
+msgid "Position In Top?"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:598
+msgid "YES for top and NO for bottom"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:604
+msgid "'Category' Word"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:609
+msgid "Portfolio Info"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:615
+#: includes/redux/admin-options.php:267
+msgid "Title 1"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/config.php:620
+#: includes/redux/admin-options.php:273
+msgid "Title 2"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/contact-block.php:16
+msgid "Please select one of contact form 7 for display."
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/menu-block copy.php:76
+#: includes/plugins/lc-theme-toolkit/kingcomposer/menu-block.php:77
+msgid "Menu Block element can only be used in Static Front Page."
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/portfolio-block.php:10
+msgid "Filters :"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/portfolio-details-block.php:114
+msgid "Previous Project"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/kingcomposer/portfolio-details-block.php:120
+msgid "Next Project"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/lc-theme-toolkit.php:20
+msgid "Portfolio"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/lc-theme-toolkit.php:21
+#: includes/plugins/lc-theme-toolkit/lc-theme-toolkit.php:22
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/lc-theme-toolkit.php:30
+msgid "categories"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/lc-theme-toolkit.php:31
+#: includes/plugins/lc-theme-toolkit/lc-theme-toolkit.php:32
+msgid "Add New Category"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/social-share/social-share.php:10
+msgid "Share this post on Facebook!"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/social-share/social-share.php:13
+msgid "Share this post on Twitter!"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/social-share/social-share.php:16
+msgid "Share this post on Google Plus!"
+msgstr ""
+
+#: includes/plugins/lc-theme-toolkit/social-share/social-share.php:19
+msgid "Share on Pinterest!"
+msgstr ""
+
+#: includes/redux/admin-options.php:25 includes/redux/admin-options.php:26
+msgid "Theme Options"
+msgstr ""
+
+#: includes/redux/admin-options.php:144
+msgid "Loading Icon"
+msgstr ""
+
+#: includes/redux/admin-options.php:157
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/redux/admin-options.php:170
+msgid "Background"
+msgstr ""
+
+#: includes/redux/admin-options.php:176
+msgid "Background Type"
+msgstr ""
+
+#: includes/redux/admin-options.php:189
+msgid "Video URL"
+msgstr ""
+
+#: includes/redux/admin-options.php:196
+msgid "Cover Image"
+msgstr ""
+
+#: includes/redux/admin-options.php:212
+msgid "Cover Image Overlay"
+msgstr ""
+
+#: includes/redux/admin-options.php:223
+msgid "Set Color"
+msgstr ""
+
+#: includes/redux/admin-options.php:233
+msgid "Set End Color"
+msgstr ""
+
+#: includes/redux/admin-options.php:243
+msgid "Slider Images"
+msgstr ""
+
+#: includes/redux/admin-options.php:249
+msgid "Status Title"
+msgstr ""
+
+#: includes/redux/admin-options.php:255
+msgid "Status title will not show in sidebar menu version"
+msgstr ""
+
+#: includes/redux/admin-options.php:261
+msgid "Intro Title"
+msgstr ""
+
+#: includes/redux/admin-options.php:279
+msgid "Title 3 Animation"
+msgstr ""
+
+#: includes/redux/admin-options.php:290 includes/redux/admin-options.php:297
+msgid "Title 3"
+msgstr ""
+
+#: includes/redux/admin-options.php:304 includes/redux/admin-options.php:317
+msgid "Upload Resume"
+msgstr ""
+
+#: includes/redux/admin-options.php:310
+msgid "Button Text"
+msgstr ""
+
+#: includes/redux/admin-options.php:311
+msgid "If no text found, Button will be hidden"
+msgstr ""
+
+#: includes/redux/admin-options.php:328 includes/redux/admin-options.php:334
+msgid "Sidebar Menu"
+msgstr ""
+
+#: includes/redux/admin-options.php:335 includes/redux/admin-options.php:351
+#: includes/redux/admin-options.php:420 includes/redux/admin-options.php:429
+#: includes/redux/admin-options.php:445
+msgid "Enable or disable."
+msgstr ""
+
+#: includes/redux/admin-options.php:336
+msgid ""
+"If sidebar menu is enabled, it will automatically override Menu Block "
+"options in Static Front page"
+msgstr ""
+
+#: includes/redux/admin-options.php:337 includes/redux/admin-options.php:352
+#: includes/redux/admin-options.php:421 includes/redux/admin-options.php:430
+#: includes/redux/admin-options.php:446
+msgid "Enabled"
+msgstr ""
+
+#: includes/redux/admin-options.php:338 includes/redux/admin-options.php:353
+#: includes/redux/admin-options.php:422 includes/redux/admin-options.php:431
+#: includes/redux/admin-options.php:447
+msgid "Disabled"
+msgstr ""
+
+#: includes/redux/admin-options.php:344 includes/redux/admin-options.php:350
+#: includes/redux/admin-options.php:359
+msgid "Social Links"
+msgstr ""
+
+#: includes/redux/admin-options.php:360
+msgid "Define and reorder the social icons however you want."
+msgstr ""
+
+#: includes/redux/admin-options.php:361
+msgid "Leave any field blank if you don't want to display it ."
+msgstr ""
+
+#: includes/redux/admin-options.php:394
+msgid "Blog Page"
+msgstr ""
+
+#: includes/redux/admin-options.php:401
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/redux/admin-options.php:407
+msgid "Read More Text"
+msgstr ""
+
+#: includes/redux/admin-options.php:413
+msgid "Blog Single Page"
+msgstr ""
+
+#: includes/redux/admin-options.php:419
+msgid "Featured Image as Title Background"
+msgstr ""
+
+#: includes/redux/admin-options.php:428
+msgid "Sidebar"
+msgstr ""
+
+#: includes/redux/admin-options.php:437
+msgid "Sidebar Button Text"
+msgstr ""
+
+#: includes/redux/admin-options.php:444
+msgid "Share Icons"
+msgstr ""
+
+#: includes/redux/admin-options.php:453
+msgid "Share Title"
+msgstr ""
+
+#: includes/redux/admin-options.php:460
+msgid "Share Icons Options"
+msgstr ""
+
+#: includes/redux/admin-options.php:461
+msgid "Select which share icons you want to display."
+msgstr ""
+
+#: includes/redux/admin-options.php:462
+msgid "Share icons are displayed just under the single posts content."
+msgstr ""
+
+#: includes/redux/admin-options.php:464
+msgid "Facebook"
+msgstr ""
+
+#: includes/redux/admin-options.php:465
+msgid "Twitter"
+msgstr ""
+
+#: includes/redux/admin-options.php:466
+msgid "Google Plus"
+msgstr ""
+
+#: includes/redux/admin-options.php:467
+msgid "Pinterest"
+msgstr ""
+
+#: includes/redux/admin-options.php:480
+msgid "404 Error Page"
+msgstr ""
+
+#: includes/redux/admin-options.php:492
+msgid "Button Style"
+msgstr ""
+
+#: includes/redux/admin-options.php:498
+msgid "Background Color"
+msgstr ""
+
+#: includes/redux/admin-options.php:504
+msgid "Text Color"
+msgstr ""
+
+#: includes/redux/admin-options.php:510
+msgid "Border Color"
+msgstr ""
+
+#: includes/redux/admin-options.php:511
+msgid "Not Support for resume download button"
+msgstr ""
+
+#: includes/redux/admin-options.php:592
+msgid "Section via hook"
+msgstr ""
+
+#: includes/redux/admin-options.php:593
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:386
+#: includes/tgm/class-tgm-plugin-activation.php:827
+#: includes/tgm/class-tgm-plugin-activation.php:2533
+#: includes/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:387
+#: includes/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:388
+#: includes/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:934
+#: includes/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1121
+#: includes/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3509
+#: includes/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3509
+#: includes/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: index.php:8
+msgid "Blog"
+msgstr ""
+
+#: index.php:10
+msgid "Blog Category:"
+msgstr ""
+
+#: index.php:12
+msgid "Blog Tag:"
+msgstr ""
+
+#: index.php:14
+msgid "Portfolio Category:"
+msgstr ""
+
+#: index.php:16
+msgid "Search:"
+msgstr ""
+
+#: page.php:21 single.php:45
+msgid "Read Next: "
+msgstr ""
+
+#: single.php:68
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:74
+msgid "Next Post"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Hello"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.lion-coders.com/wp/hello/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A modernized WordPress theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "LionCoders"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://lion-coders.com/"
+msgstr ""
