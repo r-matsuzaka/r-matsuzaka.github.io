@@ -1,0 +1,46 @@
+<head>
+  <link rel="stylesheet/less" type="text/css" href="css/homepage.less" />
+  <script src="js/homepage.js"></script>
+
+
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+  <script>
+    $(document).ready(function() {
+      $(".openNav").click(function () {
+        $("body").toggleClass("navOpen");
+        $("nav").toggleClass("open");
+        $(".wrapper").toggleClass("open");
+        $(this).toggleClass("open");
+      });
+    });
+
+  </script>
+
+</head>
+
+<nav>
+  <ul>
+    <li>Home</li>
+    <li>About me</li>
+    <li>Blog</li>
+    <li>Contact</li>
+  </ul>
+</nav>
+
+<div class="openNav">
+  <div class="icon"></div>
+</div>
+
+<div class="wrapper">
+  <section>
+    <h1>Welcome to my website</h1>
+    <h2>By Ryo Matsuzaka</h2>
+
+    <p>Preparing ...</p>
+
+  </section>
+</div>
+
