@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+
+<head>
+<meta charset="UTF-8">
+<title>Top</title>
+<style>
+  /* ==============　ページ全体の書式指定　============== */
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  body{
+    background-color: #666666;
+  }
+  #container{
+    width: 800px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+    border-left: 5px solid #FF9933;
+    border-right: 5px solid #FF9933;
+  }
+
+  /* ===============　ヘッダーの書式指定　=============== */
+  header{
+    height: 342px;
+    width: 800px;
+    background-image: url("track.jpg");
+  }
+  #header-title{
+    padding-top: 180px;
+    padding-left: 15px;
+    color: #FFFFFF;
+    font: bold 44px sans-serif;
+  }
+
+  /* ===============　メニューの書式指定　=============== */
+  nav ul{
+    list-style-type: none;
+    display: flex;
+    background-image: url("menu-back.png");
+  }
+  nav a{
+    display: block;
+    width: 100px;
+    padding: 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    font: bold 14px/20px sans-serif;
+  }
+  nav a:hover{
+    background-color: #FF3300;
+  }
+
+  /* ================　メインの書式指定　================ */
+  #main{
+    height: 500px;    /* 一時的に指定 */
+    padding: 30px;
+  }
+
+  /* ================　各要素の書式指定　================ */
+  h1{
+    background-color: #006633;
+    border-radius: 5px;
+    border-left: solid 15px #000000;
+    padding: 6px 10px 4px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px #999999;
+    font: bold 18px sans-serif;
+    color: #FFFFFF;
+  }
+
+  span {
+      display: inline-block;
+      width: 5em;
+  }
+
+  /* ===============　フッターの書式指定　=============== */
+  footer{
+    background-color: #000000;
+    padding: 10px;
+    font: 12px sans-serif;
+    text-align: right;
+    color: #FFFFFF;
+  }
+</style>
+</head>
+
+<body>
+<div id="container">    <!-- 全体を囲むdiv -->
+
+<!-- ====================　ヘッダー　==================== -->
+<header>
+  <div id="header-title">Resume</div>
+</header>
+
+<!-- ====================　メニュー　==================== -->
+<nav>
+  <ul>
+    <li><a href="summary.html">Summary</a></li>
+    <li><a href="education.html">Education</a></li>
+    <li><a href="project.html">Project</a></li>
+    <li><a href="skill.html">Skill</a></li>
+    <li><a href="kaggle.html">Kaggle</a></li>
+    <li><a href="cert.html">Certification</a></li>
+    <li><a href="study.html">Study</a></li>
+    <li><a href="sports.html">Sports</a></li>
+  </ul>
+</nav>
+
+<!-- =====================　メイン　===================== -->
+<div id="main">
+  <h1>News</h1>
+  <span>2022/5/7</span> passed AWS Certified Cloud Practitioner<br>
+  <span>2022/5/28</span> passed AWS Certified Solutions Architect – Associate
+</div>
+
+<!-- ====================　フッター　==================== -->
+<footer>
+  <p>Copyright (C) 2022 Ryo Matsuzaka All rights reserved.</p>
+</footer>
+
+</div>                  <!-- 全体を囲むdiv -->
+</body>
+
+</html>
